@@ -24,5 +24,4 @@ A cryptocurrency wallet for buying, selling and sending, with explanations built
 
 ### Contact
 
-**[rahmanimtiaz.com](https://rahmanimtiaz.com/)**<br>
-<sub>[hello@rahmanimtiaz.com](mailto:hello@rahmanimtiaz.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/rahman-imtiaz/)</sub>
+**[rahmanimtiaz.com](https://rahmanimtiaz.com/)** &nbsp;·&nbsp; [Email](mailto:hello@rahmanimtiaz.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/rahman-imtiaz/)
